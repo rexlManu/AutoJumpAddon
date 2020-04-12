@@ -1,0 +1,9 @@
+{
+  "uuid": "%uuid%",
+  "name": "AutoJump",
+  "mainClass": "de.rexlmanu.autojump.AutoJumpAddon",
+  "description": "Jumps perfectly at edges of blocks",
+  "author": "rexlManu",
+  "category": 2,
+  "version": 1
+}
